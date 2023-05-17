@@ -1,0 +1,37 @@
+.text-gold{
+    color: #c29938;
+}
+.btn-outline-gold {
+    color: #c29938;
+    border-color: #c29938;
+  }
+  .btn-outline-gold:hover {
+    background-color: #c29938;
+    color: #fff;
+  }
+  .btn-outline-gold:focus,
+  .btn-outline-gold.focus {
+    box-shadow: #c29938;
+  }
+  .btn-outline-gold.disabled,
+  .btn-outline-gold:disabled {
+    color: #c29938;
+    background-color: transparent;
+  }
+  .btn-outline-gold:not(:disabled):not(.disabled):active,
+  .btn-outline-gold:not(:disabled):not(.disabled).active {
+    color: #fff;
+    background-color:#c29938;
+    border-color:#c29938;
+  }
+  .border-gold {
+    border-color: #c29938 !important;
+  }
+
+  .bg-smoot{
+    background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+  }
+  .bg-smoot2{
+    background-image: linear-gradient(to top, #dfe9f3 0%, white 100%);
+  }
+  
